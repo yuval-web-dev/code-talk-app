@@ -1,0 +1,6 @@
+export const Home = () => (
+  <>
+    <h1>Home Page</h1>
+    <p>This is the home page for now.</p>
+  </>
+);
